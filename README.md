@@ -46,7 +46,3 @@ The project aims to answer two main business questions:
 - Implement a user interface for easier data visualization
 - Add more detailed analysis on customer behavior and preferences
 - Integrate with a recommendation system to improve DVD selection
-
-## Contributors
-Jaylen Sheard
- 
