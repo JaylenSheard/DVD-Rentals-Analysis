@@ -1,4 +1,4 @@
-# DVD Rental Analysis Project
+# DVD Rental Analysis Project 📀
 
 ## Project Overview
 This project analyzes data from Cinema Box, a video rental company specializing in affordable DVD rentals. The company allows customers to order DVDs through their website or by visiting one of their two physical locations. Despite seemingly good business performance, a recent study from the American Customer Satisfaction Index showed a 15% decrease in customer satisfaction, primarily due to a lack of selection.
